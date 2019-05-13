@@ -1934,6 +1934,16 @@ PrefabInstance:
       propertyPath: ViewfinderObjRef
       value: 
       objectReference: {fileID: 341082582}
+    - target: {fileID: 3800473088489720695, guid: 379846e692a50744e8b1719a5f8c6e75,
+        type: 3}
+      propertyPath: m_SortingLayerID
+      value: 1785801569
+      objectReference: {fileID: 0}
+    - target: {fileID: 3800473088489720695, guid: 379846e692a50744e8b1719a5f8c6e75,
+        type: 3}
+      propertyPath: m_SortingLayer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 379846e692a50744e8b1719a5f8c6e75, type: 3}
 --- !u!1001 &4900012428188236504
