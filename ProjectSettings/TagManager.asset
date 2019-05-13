@@ -45,6 +45,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: HoleGround
+    uniqueID: 2975165749
+    locked: 0
   - name: Hole
     uniqueID: 911937689
     locked: 0
